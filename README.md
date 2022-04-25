@@ -3,6 +3,12 @@
 # Dev Notes & Research Docuemnt
 https://docs.google.com/document/d/1XFZXSzFuc_nZ7-ScRG2JYA7saFGncAiW5vVm_dXf4eA/edit?usp=sharing
 
+# Run Instructions
+-Clone the git repo to HtDocs
+-Start MAMP
+-Go to my websites and select repo folder
+-select public folder
+
 # Homework 1: MULTI-PAGE PHP SITE
 
 You will have one week to create a simple, multi-page PHP site that lists some data and includes a contact form that sends an email to you with the information the user has entered.
